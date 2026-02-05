@@ -1,4 +1,29 @@
-## Hi there 👋
+## 👋 Opa! Eu sou o Ryan Barusso
+
+💻 Estudante de programação  
+📚 Curto transformar estudo em projetos  
+🚀 Evoluindo um pouco todo dia
+
+---
+
+### 🧠 Um pouco sobre mim
+
+- Estou estudando programação e construindo projetos para aprender de verdade  
+- Gosto de código simples, organizado e funcional  
+- Sempre buscando evoluir e aprender coisas novas
+
+---
+
+### 📊 Meu GitHub em números
+
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-barusso&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-barusso&layout=compact&theme=tokyonight)
+
+---
+
+*while (learning) { evolve(); }*
+
 
 <!--
 **ryan-barusso/ryan-barusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
