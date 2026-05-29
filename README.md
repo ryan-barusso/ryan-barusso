@@ -1,33 +1,60 @@
-## 👋 Opa! Eu sou o Ryan Barusso
+<div align="center">
 
-💻 Estudante de programação  
-📚 Curto transformar estudo em projetos  
-🚀 Evoluindo um pouco todo dia
+# Ryan Barusso
 
----
+### Back-End Developer • ADS Student
 
-### 🧠 Um pouco sobre mim
+Focused on back-end development, automation and scalable architectures.
 
-- Estou estudando programação e construindo projetos para aprender de verdade  
-- Gosto de código simples, organizado e funcional  
-- Sempre buscando evoluir e aprender coisas novas
+</div>
 
 ---
 
-*while (learning) { evolve(); }*
+## 🧠 Stack
 
+<div align="center">
 
-<!--
-**ryan-barusso/ryan-barusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://skillicons.dev/icons?i=python,java,php,ruby,aws,nodejs,cs,postgres,mysql,docker,git,linux,bash" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ryan-barusso&theme=github-dark&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+## 📂 About Me
+
+```
+Back-End focused
+ADS Student
+Automation enthusiast
+Always learning
+```
+
+---
+
+## 🌐 Contact
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ryan-barusso/">
+  <img src="https://img.shields.io/badge/LinkedIn-171515?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+"Talk is cheap. Show me the code." – Linus Torvalds
+
+</div>
